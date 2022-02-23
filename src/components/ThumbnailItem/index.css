@@ -1,0 +1,22 @@
+.thumbnail {
+  width: 40px;
+  border-radius: 5px;
+
+  margin-top: 10px;
+  margin-right: 10px;
+  opacity: 0.5;
+}
+
+.opacity {
+  opacity: 1;
+}
+
+.button {
+  cursor: pointer;
+  border-width: 0px;
+  background-color: transparent;
+}
+
+.list {
+  list-style: none;
+}

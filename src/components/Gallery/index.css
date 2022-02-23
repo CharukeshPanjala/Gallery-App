@@ -1,0 +1,38 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.image {
+  width: 50%;
+}
+
+.heading {
+  color: #1e293b;
+  font-size: 18px;
+  font-family: roboto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.thumbnail-pics-description {
+  color: #64748b;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.list {
+  list-style: none;
+}
+
+.thumbnails-container {
+  display: flex;
+  flex-direction: row;
+}
